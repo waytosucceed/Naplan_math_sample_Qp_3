@@ -1,0 +1,390 @@
+{
+  "heading": "Sample Paper 3",
+  "topics": [
+    {
+      "heading": "Sample Paper 3",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "If December 5, 2011 was Sunday, then what would be the day on December 24, 2011?",
+          "options": [
+            { "text": "Sunday" },
+            { "text": "Friday" },
+            { "text": "Monday" },
+            { "text": "Saturday" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "Jessi grouped 35 crockery plates in the manner shown below:<br><img width='30%' src='./assests/images/1.png'><br> Which of the division facts best suits the grouping?",
+          "options": [
+            { "text": "5 ÷ 35" },
+            { "text": "35 ÷ 1" },
+            { "text": "35 ÷ 5" },
+            { "text": "35 ÷ 7" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 3,
+          "question": "Max is solving a mystery. Four clues are given below, but only one is correct.<br> Which of the following is correct?",
+          "options": [
+            { "text": "700 + 58 = 780 + 5" },
+            { "text": "700 + 58 = 705 + 8" },
+            { "text": "700 + 58 = 708 + 50" },
+            { "text": "700 + 58 = 70 + 58" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 4,
+          "question": "Steve wants to buy some of the things shown below.<br><img width='40%' src='./assests/images/2.png'><br> If he has $26.10, which of the following pair he can’t buy?",
+          "options": [
+            { "text": "Sharpener and chocolate" },
+            { "text": "Robot and sharpener" },
+            { "text": "Scissor and chocolate" },
+            { "text": "Ball and scissor" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 5,
+          "question": "A frog can go 3 feet in one jump. A rabbit can go 4 times as far as a frog.<br><img width='25%' src='./assests/images/3.png'><br> How far can the rabbit go in one jump?",
+          "options": [
+            { "text": "3 feet" },
+            { "text": "4 feet" },
+            { "text": "7 feet" },
+            { "text": "12 feet" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 6,
+          "question": "Form the greatest 4-digit number by using digits and all the digits must be used once.<br><img width='35%' src='./assests/images/4.png'>",
+          "options": [
+            { "text": "2597" },
+            { "text": "7952" },
+            { "text": "9752" },
+            { "text": "None of these" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 7,
+          "question": "Mathew sells 2 breads everyday.<br><img width='30%' src='./assests/images/5.png'><br> What is the total number of breads sold in the month of December?",
+          "options": [
+            { "text": "24" },
+            { "text": "48" },
+            { "text": "62" },
+            { "text": "74" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 8,
+          "question": "Julie started at 776 and made this number pattern.<br><img width='30%' src='./assests/images/6.png'><br> What is the next number in the pattern?",
+          "options": [
+            { "text": "783" },
+            { "text": "784" },
+            { "text": "781" },
+            { "text": "880" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "The picture graph shows the different types of eatables that a group of children like.<br><img width='42%' src='./assests/images/7.png'><br> Which eatable is liked by the minimum number of children?",
+          "options": [
+            { "text": "Chocolates" },
+            { "text": "Candies" },
+            { "text": "Noodles" },
+            { "text": "Toffees" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 10,
+          "question": "Choose the correct division fact.<br><img width='30%' src='./assests/images/8.png'>",
+          "options": [
+            { "text": "10 ÷ 10 = 3" },
+            { "text": "20 ÷ 5 = 2" },
+            { "text": "20 ÷ 10 = 2" },
+            { "text": "10 ÷ 5 = 2" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 11,
+          "question": "Ella is finding an object which is shaped like a sphere?",
+          "options": [
+            { "image": "./assests/option/1.png" },
+            { "image": "./assests/option/2.png" },
+            { "image": "./assests/option/3.png" },
+            { "image": "./assests/option/4.png" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 12,
+          "question": "Complete the given pattern.<br><img width='30%' src='./assests/images/9.png'><br><br>",
+          "options": [
+            { "image": "./assests/option/5.png" },
+            { "image": "./assests/option/6.png" },
+            { "image": "./assests/option/7.png" },
+            { "image": "./assests/option/8.png" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 13,
+          "question": "A shopkeeper is measuring the weight of two different batches of tomatoes.<img width='30%' src='./assests/images/10.png'><br> The weight of the bigger tomato is:",
+          "options": [
+            { "text": "10 grams" },
+            { "text": "40 grams" },
+            { "text": "30 grams" },
+            { "text": "20 grams" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 14,
+          "question": "Adam is getting late for school. He just picks up a fruit from the basket without looking at it.<br><img width='45%' src='./assests/images/11.png'><br> Which fruit is most likely to be picked?",
+          "options": [
+            { "image": "./assests/option/9.png" },
+            { "image": "./assests/option/10.png" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 15,
+          "question": "The first clock shows the time when Aly went outside and the second clock shows the time when he came back the same day.<br><img width='25%' src='./assests/images/12.png'><br> How long did he stay outside?",
+          "input": [
+            { "operand": "" },
+            { "operand": "hours" },
+            { "operand": "" },
+            { "operand": "minutes" }
+          ],
+          "answer": ["1","hours","30","minutes"]
+        },
+        {
+          "questionNo": 16,
+          "question": "Which of the following options show the reflection of the image over the dotted line?<br><img width='20%' src='./assests/images/13.png'><br><br>",
+          "options": [
+            { "image": "./assests/option/11.png" },
+            { "image": "./assests/option/12.png" },
+            { "image": "./assests/option/13.png" },
+            { "image": "./assests/option/14.png" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 17,
+          "question": "In a box there are 7 blue marbles, 3 green marbles and 6 red marbles.<br><img width='20%' src='./assests/images/14.png'><br> What is the fraction of blue colored marbles?",
+          "options": [
+            { "text": "7/16" },
+            { "text": "7/13" },
+            { "text": "9/16" },
+            { "text": "9/13" }
+          ],
+          "answer": 0
+        },
+          {
+            "questionNo": 18,
+            "question": "Which number will go inside the blank box and make the equation true?<br><img width='30%' src='./assests/images/15.png'>",
+            "options": [
+              { "text": "4" },
+              { "text": "6" },
+              { "text": "8" },
+              { "text": "5" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 19,
+            "question": "Ava prepared the Input/Output table as shown below:<br><img width='30%' src='./assests/images/16.png'><br> What rule can be used to find each number in the output column?",
+            "options": [
+              { "text": "Divide by 7" },
+              { "text": "Divide by 8" },
+              { "text": "Multiply by 8" },
+              { "text": "Multiply by 7" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 20,
+            "question": "How many legs do the given ants have?<br><img width='50%' src='./assests/images/17.png'>",
+            "options": [
+              { "text": "78" },
+              { "text": "60" },
+              { "text": "72" },
+              { "text": "66" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 21,
+            "question": "The fish is _____________ ducks long.<br><img width='30%' src='./assests/images/18.png'>",
+            "options": [
+              { "text": "3" },
+              { "text": "6" },
+              { "text": "9" },
+              { "text": "12" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 22,
+            "question": "The following pictograph shows the number of boys in each class of a boys school.<br><img width='30%' src='./assests/images/19.png'><br> What is the total number of boys in the school?",
+            "options": [
+              { "text": "140" },
+              { "text": "16" },
+              { "text": "160" },
+              { "text": "60" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 23,
+            "question": "Arina woke up in the middle of the night and checked the time. The clock showed <b>4:10</b>.<br><img width='20%' src='./assests/images/20.png'><br> How should this time be written?",
+            "options": [
+              { "text": "4:10 a.m." },
+              { "text": "4:10 p.m." }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 24,
+            "question": "Fill in the blanks to describe which expression describes the given array.<br><img width='30%' src='./assests/images/21.png'>",
+            "input": [
+              { "operand": "" },
+              { "operand": "x" },
+              { "operand": "" }
+            ],
+            "answer": ["3","x","4"]
+          },
+          {
+            "questionNo": 25,
+            "question": "Cindy is forming an odd number. <br>What is the greatest odd number formed by the digits 4, 3, and 9.",
+            "options": [
+              { "text": "943" },
+              { "text": "934" },
+              { "text": "439" },
+              { "text": "349" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 26,
+            "question": "How many cubes are there in the given figure?<br><img width='30%' src='./assests/images/22.png'>",
+            "options": [
+              { "text": "9" },
+              { "text": "10" },
+              { "text": "11" },
+              { "text": "12" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 27,
+            "question": "John drew a shape on the chalkboard. The shape has 5 sides. Which shape could John have drawn?",
+            "options": [
+              { "image": "./assests/option/15.png" },
+            { "image": "./assests/option/16.png" },
+            { "image": "./assests/option/17.png" },
+            { "image": "./assests/option/18.png" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 28,
+            "question": "Which figure will this net make?<br><img width='25%' src='./assests/images/23.png'>",
+            "options": [
+              { "text": "Square pyramid" },
+              { "text": "Cylinder" },
+              { "text": "Triangular pyramid" },
+              { "text": "Cube" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 29,
+            "question": "There are 9 cars in the car park.<br><img width='30%' src='./assests/images/24.png'><br> 6 of them have bumper stickers. What fraction of the cars have bumper stickers?",
+            "options": [
+              { "text": "9/15" },
+              { "text": "6/15" },
+              { "text": "9/6" },
+              { "text": "6/9" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 30,
+            "question": "Mathew was solving a puzzle that says, “The brown house is taller than the white house but shorter than the yellow house.” Which house is the shortest?",
+            "options": [
+              { "text": "White house" },
+              { "text": "Brown house" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 31,
+            "question": "Which sign will make the statement true?<br><img width='30%' src='./assests/images/25.png'>",
+            "options": [
+              { "text": ">" },
+              { "text": "<" },
+              { "text": "=" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 32,
+            "question": "A box has these numbers:<br><img width='30%' src='./assests/images/26.png'><br> Choose two numbers from the box to complete the subtraction number sentence.",
+            "input": [
+              { "operand": "" },
+              { "operand": "-" },
+              { "operand": "" },
+              { "operand": "=" },
+              { "operand": "50" }
+            ],
+            "answer": ["55","-","5","=","50"]
+          },
+          {
+            "questionNo": 33,
+            "question": "Estimate the sum by rounding each number to the nearest tens and then adding. <br><b>307 + 188</b><br> The sum is approximately:",
+            "options": [
+              { "text": "400" },
+              { "text": "500" },
+              { "text": "600" },
+              { "text": "700" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 34,
+            "question": "Using the paths shown, how far is it from Somerville to Lancaster?<br><img width='35%' src='./assests/images/27.png'>",
+            "options": [
+              { "text": "17 km" },
+              { "text": "18 km" },
+              { "text": "35 km" },
+              { "text": "19 km" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 35,
+            "question": "Which is the missing time?<br><img width='35%' src='./assests/images/28.png'><br><br>",
+            "options": [
+              { "image": "./assests/option/19.png" },
+            { "image": "./assests/option/20.png" }
+            ],
+            "answer": 1
+          }
+        
+        
+      ]
+      
+       
+    }
+  ]
+}
